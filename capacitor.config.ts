@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.example.convertctof',
-  appName: 'Convert C to F',
+  appId: 'com.example.tempconverter',
+  appName: 'Temp Converter',
   webDir: 'dist'
 };
 
