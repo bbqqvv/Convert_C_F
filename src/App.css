@@ -1,0 +1,17 @@
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+  margin: 10px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
