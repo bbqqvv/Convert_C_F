@@ -52,3 +52,10 @@ npx cap open ios
 - Nếu không lấy được vị trí, hãy cấp quyền truy cập GPS.
 
 📌 **Liên hệ**: Nếu gặp vấn đề khi chạy ứng dụng, hãy mở issue hoặc liên hệ! 🚀
+
+![Giao diện ứng dụng](src/assets/a1.jpg)
+![Giao diện ứng dụng](src/assets/a2.jpg)
+![Giao diện ứng dụng](src/assets/a3.jpg)
+![Giao diện ứng dụng](src/assets/a4.jpg)
+![Giao diện ứng dụng](src/assets/a5.jpg)
+
